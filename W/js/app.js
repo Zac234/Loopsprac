@@ -16,3 +16,28 @@ while(list >100){
     console.log(list)
     list=list+2
 }
+
+
+let cart_items= ["belt", "coat", "jeans"]
+let cart_counter = 0
+while(cart_counter<3){
+    console.log (cart_counter[cart_items])
+    cart_counter=cart_counter +1
+}
+
+
+let object={
+    name:"Anton",
+    age:12,
+    injured: false,
+
+    name:"tom",
+    age:34,
+    injured: true,
+
+    name:"jerome",
+    age:87,
+    injured: true,
+
+    
+}
